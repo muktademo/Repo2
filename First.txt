@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 changes made in master branch
+=======
+Changes done in branch1
+>>>>>>> Branch1
